@@ -275,7 +275,7 @@ Our experiments using the [BIOSCAN-CLIP](https://arxiv.org/abs/2405.17537) are c
 
 ## BIOSCAN Browser
 
-The [BIOSCAN Browser](https://bioscan-browser.netlify.app/) provides a user-friendly interface to navigate the BIOSCAN-5M dataset. The goal is to lower the threshold for users to explore the dataset by presenting data in interactive and comprehensive ways. A long term goal for the tool is to help improve quality of data, by making incorrect or missing data easier to spot and report.
+The [BIOSCAN Browser](https://bioscan-browser.netlify.app/) provides a user-friendly interface to navigate the BIOSCAN-5M dataset. The idea is to lower the threshold for users to explore the dataset by presenting data in interactive and comprehensive ways. A long term goal for the tool is to help improve quality of data, by making incorrect or missing data easier to spot and report.
 
 <div align="center">
   <img src="BIOSCAN_images/repo_images/bioscan_browser.png" alt="Screenshot from the BIOSCAN Browser." />
