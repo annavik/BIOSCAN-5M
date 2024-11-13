@@ -261,3 +261,7 @@ DNA and text (keys). The cosine similarity is used to find the closest key embed
   <p><b>Figure 11:</b> BIOSCAN-CLIP model architecture.
 </div>
 
+
+BIOSCAN Browser
+--------
+The [BIOSCAN Browser](https://bioscan-browser.netlify.app/) provides a user-friendly interface to navigate the BIOSCAN-5M dataset. The goal is to lower the threshold for users to explore the dataset by presenting data in interactive and comprehensive ways. A long term goal for the tool is to help improve quality of data, by making incorrect or missing data easier to spot and report.
